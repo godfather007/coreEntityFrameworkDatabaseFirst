@@ -1,0 +1,11 @@
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\bin\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.deps.json
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\bin\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.runtimeconfig.json
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\bin\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.runtimeconfig.dev.json
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\bin\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.dll
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\bin\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.pdb
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\obj\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.csproj.CoreCompileInputs.cache
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\obj\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.AssemblyInfoInputs.cache
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\obj\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.AssemblyInfo.cs
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\obj\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.dll
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\obj\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.pdb
+E:\learn-webAPI\coreEntityFrameworkDatabaseFirst\obj\Debug\netcoreapp2.0\coreEntityFrameworkDatabaseFirst.csprojResolveAssemblyReference.cache
